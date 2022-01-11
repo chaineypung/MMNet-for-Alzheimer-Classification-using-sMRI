@@ -1,4 +1,4 @@
-# MMNet for Alzheimer Classification using sMRI
+# MM-Net for Alzheimer Classification using sMRI
 5th-Place-Solution-to-PRCV-Challenge-2021-AD-Classification-Task
 
 Official website of the competition：https://competition.huaweicloud.com/information/1000041489/circumstance?zhishi=
