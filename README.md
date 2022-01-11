@@ -1,4 +1,4 @@
-# MM-Net
+# MM-Net:5th Place Solution to PRCV Challenge 2021 Alzheimer's Disease Classification Task
 This repo contains the supported pytorch code and configuration files to reproduce alzheimer's disease classification results of [MM-Net](https://developer.huaweicloud.com/develop/aigallery/algorithm/detail?id=18ab4679-279c-4f41-af64-3e90ec583fdf). 
 		Official [website](https://competition.huaweicloud.com/information/1000041489/circumstance?zhishi=) of the competition. Link to our team's [Huawei homepage](https://marketplace.huaweicloud.com/markets/aihub/modelhub/detail/?id=18ab4679-279c-4f41-af64-3e90ec583fdf).
 
